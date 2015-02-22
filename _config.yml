@@ -2,9 +2,9 @@
 title:       Christopher Griffith
 email:       cgriff1125@gmail.com
 author:      Christopher Griffith
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "A jack-of-all-trades marketer stumbling through the world"
-url:         "http://www.chrisgriff.com"
+description: "A jack-of-all-trades marketer stumbling through the world"
+baseurl:     ""
+url:         "http://chrisgriff.com"
 
 # Google analytics
 google_analytics: UA-60003460-1
