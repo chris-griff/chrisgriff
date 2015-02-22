@@ -12,7 +12,7 @@ After graduating from the <a href="http://www.udel.edu">University of Delaware</
 
 A lot of it was luck. I couldn't have picked a better time to embark on a career in this radically changing,expanding, and growing field, where so many new strategies and platforms are being embraced and encouraged (what seems like) everyday.
 
-And what a ride it's been. Just a few months removed from the classroom, would've thought I'd be where I am today; but I'm loving every minute of it.
+And what a ride it's been. Just a few months removed from the classroom, who would've thought I'd be where I am today; but I'm loving every minute of it.
 
 I'll use this blog as a venue for sharing things I pick up along the way, hopefully you find something here that is helpful.
 
