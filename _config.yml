@@ -1,0 +1,39 @@
+# Site settings
+title:       Christopher Griffith
+email:       cgriff1125@gmail.com
+author:      Christopher Griffith
+description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+baseurl:     "A jack-of-all-trades marketer stumbling through the world"
+url:         "http://www.chrisgriff.com"
+
+# Google analytics
+google_analytics: UA-60003460-1
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: chrisgriff
+
+# Social icons
+show_social_icons: false
+github_username:
+stackoverflow_id:
+twitter_username: thechrisgriff
+google_plus_id: 101364937404505692166
+linkedin_username: griffithchristopher
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
