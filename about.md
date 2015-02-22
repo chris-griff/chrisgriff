@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Pixyll
+title: About Christopher
 permalink: /about/
 ---
 
@@ -16,5 +16,5 @@ And what a ride it's been. Just a few months removed from the classroom, would'v
 
 I'll use this blog as a venue for sharing things I pick up along the way, hopefully you find something here that is helpful, or at the very least,
 
-Cheers,
+Cheers,<br/>
 Christopher
