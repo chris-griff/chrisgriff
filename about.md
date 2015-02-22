@@ -14,7 +14,7 @@ A lot of it was luck. I couldn't have picked a better time to embark on a career
 
 And what a ride it's been. Just a few months removed from the classroom, would've thought I'd be where I am today; but I'm loving every minute of it.
 
-I'll use this blog as a venue for sharing things I pick up along the way, hopefully you find something here that is helpful, or at the very least,
+I'll use this blog as a venue for sharing things I pick up along the way, hopefully you find something here that is helpful.
 
 Cheers,<br/>
 Christopher
