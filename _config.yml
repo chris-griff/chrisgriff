@@ -1,39 +1,34 @@
 # Site settings
-title:       Christopher Griffith
-email:       cgriff1125@gmail.com
-author:      Christopher Griffith
-description: "A jack-of-all-trades marketer stumbling through the world"
-baseurl:     ""
-url:         "http://chrisgriff.com"
-
-# Google analytics
-google_analytics: UA-60003460-1
-
-# Optional features
-animated:           true
-show_related_posts: false
-show_post_footers:  false
-
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname: chrisgriff
-
-# Social icons
-show_social_icons: false
-github_username:
-stackoverflow_id:
-twitter_username: thechrisgriff
-google_plus_id: 101364937404505692166
-linkedin_username: griffithchristopher
-bitcoin_url:
-paypal_url:
-flattr_button:
+title: Emerald | A simple Jekyll blog
+description: "A minimal blog template, build with Jekyll."
+url: "http://www.jacoporabolini.com/emerald"
+author:
+  name: "Jacopo Rabolini"
+  email: "hello@jacoporabolini.com"
+  url: "http://www.jacoporabolini.com"
 
 # Build settings
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     3
-sass:
-  compressed: true
+baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false

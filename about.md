@@ -1,20 +1,21 @@
 ---
 layout: page
-title: About Christopher
-permalink: /about/
+title: About Emerald
 ---
+## About
+Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
-Where to begin...
+For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
 
-I've been fascinated by the concepts and theories that drive business as far back as I can remember - especially when it comes to marketing.
+![Emerald](img/Emerald01.png "Emerald")
 
-After graduating from the <a href="http://www.udel.edu">University of Delaware</a>, I joined the team at <a href="http://www.wizehive.com">WizeHive</a> as Director of Marketing - contributing all I can in terms of content, digital, search, email, conversion, social, and growth marketing. By no means do I consider myself an expert in any of these arenas, but I'm passionate about each one.
+### Setup
+Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
 
-A lot of it was luck. I couldn't have picked a better time to embark on a career in this radically changing,expanding, and growing field, where so many new strategies and platforms are being embraced and encouraged (what seems like) everyday.
+After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
 
-And what a ride it's been. Just a few months removed from the classroom, who would've thought I'd be where I am today; but I'm loving every minute of it.
+Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
 
-I'll use this blog as a venue for sharing things I pick up along the way, hopefully you find something here that is helpful.
+Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
 
-Cheers,<br/>
-Christopher
+Enjoy!
