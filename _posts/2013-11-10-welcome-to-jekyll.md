@@ -1,7 +1,7 @@
 ---
-title:  "Welcome to Jekyll!"
-date:   2013-11-10 10:18:00
-description: Thriller Comedy Horror
+title:  "Test post"
+date:   2016-02-06
+description: No need for alarm, this is only a test
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
@@ -19,5 +19,8 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
+![This is a turtle][turtle]
+
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
+[turtle]: ../img/post/turtle.png
