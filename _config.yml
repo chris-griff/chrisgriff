@@ -19,7 +19,7 @@ url:            'http://www.chrisgriff.com'
 author:         'Christopher Griffith'
 authorTwitter:  'tophsgriff'
 
-permalink:       /:year/:title/
+permalink:       /:title/
 
 defaults:
     -
