@@ -2,5 +2,5 @@ img + em {
 	color: #123456;
 	font-style: normal;
 	font-size: 75%;
-	letter-spacing: 5%;
+	text-align: center;
 }
