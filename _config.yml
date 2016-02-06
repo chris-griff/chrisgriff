@@ -1,42 +1,39 @@
-name: Christopher Griffith
-description: Full stack marketer
-meta_description: "Christopher Griffith - full stack marketer from Wilmington, Delaware"
+# Site settings
+title:       Christopher Griffith
+email:       cgriff1125@gmail.com
+author:      Christopher Griffith
+description: "A jack-of-all-trades marketer stumbling through the world"
+baseurl:     ""
+url:         "http://chrisgriff.com"
 
-aboutPage: true
+# Google analytics
+google_analytics: UA-60003460-1
 
-markdown: redcarpet
-highlighter: pygments
+# Optional features
+animated:           true
+show_related_posts: false
+show_post_footers:  false
 
-paginate: 20
-baseurl: /
-domain_name: 'http://www.chrisgriff.com'
-google_analytics: 'UA-60003460-1'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: chrisgriff
 
-# Details for the RSS feed generator
-url:            'http://www.chrisgriff.com'
-author:         'Christopher Griffith'
-authorTwitter:  'tophsgriff'
+# Social icons
+show_social_icons: false
+github_username:
+stackoverflow_id:
+twitter_username: thechrisgriff
+google_plus_id: 101364937404505692166
+linkedin_username: griffithchristopher
+bitcoin_url:
+paypal_url:
+flattr_button:
 
-permalink:       /:year/:title/
-
-defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+# Build settings
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
